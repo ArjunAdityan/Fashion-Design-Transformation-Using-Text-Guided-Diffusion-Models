@@ -3,9 +3,13 @@ This repository contains the implementation of a novel approach for transforming
 
 # Authors
 Arjun Adityan (Department of Mathematics, Amrita Vishwa Vidyapeetham, Coimbatore, India)
+
 Kabeleswar (Department of Mathematics, Amrita Vishwa Vidyapeetham, Coimbatore, India)
+
 Karthikeyan Vaiapury (TCS Research and Innovation, IITM Research Park, Chennai, India)
+
 Dr. T Palanisamy (Department of Mathematics, Amrita School of Physical Sciences, Amrita Vishwa Vidyapeetham, Coimbatore, India)
+
 Senthil Kumar Tangavel (Department of Computer Science and Engineering, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore, India)
 
 # Key Features
